@@ -57,7 +57,7 @@ section > p{
     background-color: #3d3d3d;
     color: white;
     
-    background-size: contain;
+    background-size: cover;
     box-shadow: inset 10px 10px 50px rgba(0, 0, 0, 0.678);
     background-attachment: fixed;
 }
