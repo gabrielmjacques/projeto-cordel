@@ -69,7 +69,7 @@ section > p{
 }
 #img1{
     background-image: url(../imagens/background001.jpg);
-    background-position: right center;
+    background-position: center center;
 }
 #img2{
     background-image: url(../imagens/background002.jpg);
